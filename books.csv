@@ -1,1 +1,6 @@
-
+title,author,edition,year,publisher,price
+Python Basics,ABC,1,2020,XYZ,300
+Java Programming,DEF,2,2019,ABC,500
+Data Science,GHI,1,2021,XYZ,700
+C Programming,JKL,3,2018,PQR,250
+AI Basics,MNO,1,2022,XYZ,900
